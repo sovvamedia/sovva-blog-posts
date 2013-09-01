@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Docker? 
-date: 2013-08-30
+date: 2013-08-30 12:00:00
 categories: docker linux containers lxc deployment
 ---
 
